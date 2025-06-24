@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AZLeadsConsumer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7205",
+      "launchBrowser": false
+    }
+  }
+}

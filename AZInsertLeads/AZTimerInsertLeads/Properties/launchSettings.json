@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AZTimerInsertLeads": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7161",
+      "launchBrowser": false
+    }
+  }
+}

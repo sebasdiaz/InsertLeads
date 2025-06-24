@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5271D-B8C6-4154-9A27-9A862C8E960D}|AZLeadsConsumer\\AZLeadsConsumer.csproj|c:\\users\\lkseb\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\azleadsconsumer\\azleadsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5271D-B8C6-4154-9A27-9A862C8E960D}|AZLeadsConsumer\\AZLeadsConsumer.csproj|solutionrelative:azleadsconsumer\\azleadsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5271D-B8C6-4154-9A27-9A862C8E960D}|AZLeadsConsumer\\AZLeadsConsumer.csproj|c:\\users\\lkseb\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\azleadsconsumer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67A5271D-B8C6-4154-9A27-9A862C8E960D}|AZLeadsConsumer\\AZLeadsConsumer.csproj|solutionrelative:azleadsconsumer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B3C93D-F1A9-4A05-A612-5209708205B6}|AZTimerInsertLeads\\AZTimerInsertLeads.csproj|c:\\users\\lkseb\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\aztimerinsertleads\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5B3C93D-F1A9-4A05-A612-5209708205B6}|AZTimerInsertLeads\\AZTimerInsertLeads.csproj|solutionrelative:aztimerinsertleads\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B3C93D-F1A9-4A05-A612-5209708205B6}|AZTimerInsertLeads\\AZTimerInsertLeads.csproj|c:\\users\\lkseb\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\aztimerinsertleads\\insertleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B3C93D-F1A9-4A05-A612-5209708205B6}|AZTimerInsertLeads\\AZTimerInsertLeads.csproj|solutionrelative:aztimerinsertleads\\insertleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZLeadsConsumer\\local.settings.json",
+              "RelativeDocumentMoniker": "AZLeadsConsumer\\local.settings.json",
+              "ToolTip": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZLeadsConsumer\\local.settings.json",
+              "RelativeToolTip": "AZLeadsConsumer\\local.settings.json",
+              "ViewState": "AgIAAAAAAACAZmZmZmYNwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T18:42:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AZLeadsConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZLeadsConsumer\\AZLeadsConsumer.cs",
+              "RelativeDocumentMoniker": "AZLeadsConsumer\\AZLeadsConsumer.cs",
+              "ToolTip": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZLeadsConsumer\\AZLeadsConsumer.cs",
+              "RelativeToolTip": "AZLeadsConsumer\\AZLeadsConsumer.cs",
+              "ViewState": "AgIAABAAAAAA8P////8EwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:18:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZTimerInsertLeads\\local.settings.json",
+              "RelativeDocumentMoniker": "AZTimerInsertLeads\\local.settings.json",
+              "ToolTip": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZTimerInsertLeads\\local.settings.json",
+              "RelativeToolTip": "AZTimerInsertLeads\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T15:32:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertLeads.cs",
+              "DocumentMoniker": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZTimerInsertLeads\\InsertLeads.cs",
+              "RelativeDocumentMoniker": "AZTimerInsertLeads\\InsertLeads.cs",
+              "ToolTip": "C:\\Users\\lkseb\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\AZTimerInsertLeads\\InsertLeads.cs",
+              "RelativeToolTip": "AZTimerInsertLeads\\InsertLeads.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:32:33.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
