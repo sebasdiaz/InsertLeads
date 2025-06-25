@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SDiaz.AR\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\",
+  "WorkspaceRootPath": "C:\\Git\\InsertLeads\\AZInsertLeads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|c:\\users\\sdiaz.ar\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\leadtobustimer\\insertleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|c:\\git\\insertleads\\azinsertleads\\leadtobustimer\\insertleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|solutionrelative:leadtobustimer\\insertleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|c:\\users\\sdiaz.ar\\onedrive\\documentos\\visual studio 2022\\projects\\azinsertleads\\leadtobustimer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|c:\\git\\insertleads\\azinsertleads\\leadtobustimer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A8F3E689-4C61-4010-9FE8-83547F103AD1}|LeadToBusTimer\\LeadToBusTimer.csproj|solutionrelative:leadtobustimer\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -24,23 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\SDiaz.AR\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\LeadToBusTimer\\local.settings.json",
+              "DocumentMoniker": "C:\\Git\\InsertLeads\\AZInsertLeads\\LeadToBusTimer\\local.settings.json",
               "RelativeDocumentMoniker": "LeadToBusTimer\\local.settings.json",
-              "ToolTip": "C:\\Users\\SDiaz.AR\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\LeadToBusTimer\\local.settings.json",
+              "ToolTip": "C:\\Git\\InsertLeads\\AZInsertLeads\\LeadToBusTimer\\local.settings.json",
               "RelativeToolTip": "LeadToBusTimer\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-24T02:04:26.4Z"
+              "WhenOpened": "2025-06-24T02:04:26.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InsertLeads.cs",
-              "DocumentMoniker": "C:\\Users\\SDiaz.AR\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\LeadToBusTimer\\InsertLeads.cs",
+              "DocumentMoniker": "C:\\Git\\InsertLeads\\AZInsertLeads\\LeadToBusTimer\\InsertLeads.cs",
               "RelativeDocumentMoniker": "LeadToBusTimer\\InsertLeads.cs",
-              "ToolTip": "C:\\Users\\SDiaz.AR\\OneDrive\\Documentos\\Visual Studio 2022\\Projects\\AZInsertLeads\\LeadToBusTimer\\InsertLeads.cs",
+              "ToolTip": "C:\\Git\\InsertLeads\\AZInsertLeads\\LeadToBusTimer\\InsertLeads.cs",
               "RelativeToolTip": "LeadToBusTimer\\InsertLeads.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAxwBgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAywHcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T01:56:37.974Z",
               "EditorCaption": ""
