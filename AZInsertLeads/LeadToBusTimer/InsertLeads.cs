@@ -59,8 +59,6 @@ namespace AZTimerInsertLeads
                 int recordsCount = 0;
                 int globalBatchCount = 0;
 
-
-
                 var query_fax = "S";
                 var query = new QueryExpression("lead");
                 query.ColumnSet.AddColumns(
